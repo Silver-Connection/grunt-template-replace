@@ -1,7 +1,7 @@
 grunt-template-replace
 --
 
-Copies file content to a given template and writes them to disk. You can place a marker in the template where the content of the given files are placed. This is use full when you create HTML filed out of Markdown and want to wrap the result in a master layout.
+Copies file content to a given template and writes them to disk. You can place a marker in the template where the content of the given files are placed. This is use full when you create HTML files out of Markdown and want to wrap the result into a master layout.
 
 <!-- TOC -->
 
