@@ -1,0 +1,45 @@
+{
+    "name": "grunt-template-replace",
+    "version": "1.0.0",
+    "description": "Very simple system for replacing and merging file content",
+    "author": "Silver Connection",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Silver-Connection/grunt-template-replace/issues"
+    },
+    "keywords": [
+      "bootstrap4",
+      "datatables",
+      "dropzone",
+      "vue"
+    ],
+    "private": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://https://github.com/Silver-Connection/grunt-template-replace.git"
+    },
+    "dependencies": {
+      "grunt": "^1.0.1"
+    },
+    "devDependencies": {
+      "grunt": "^1.0.1",
+      "grunt-cli": "^1.2.0",
+      "grunt-concurrent": "^2.3.1",
+      "grunt-contrib-clean": "^1.1.0",
+      "grunt-contrib-concat": "^1.0.1",
+      "grunt-contrib-copy": "^1.0.0",
+      "grunt-contrib-nodeunit": "^1.0.0",
+      "grunt-mkdir": "^1.0.0",
+      "jit-grunt": "^0.10.0",
+      "time-grunt": "^1.4.0"
+    },
+    "engines": {
+      "yarn": ">= 1.0.0",
+      "node": ">=0.10.0"
+    },
+    "main": "tasks/template-replace.js",
+    "files": [
+      "tasks"
+    ]
+  }
+  
